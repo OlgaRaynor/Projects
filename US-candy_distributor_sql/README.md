@@ -6,3 +6,5 @@ Primary objectives:
 - which product lines have the best product margin
 - determine the most and least efficient shipping routes
 - recommend product lines relocation to optimize logistic routes
+
+## Dataset

@@ -15,4 +15,4 @@ The dataset contains five CSV files:
 4. **Candy_Factories:** factory name, latitude and longitude
 5. **Uszips:** latitude and longitude coordinates for customers zip codes
    
-Data Source:(https://app.mavenanalytics.io/datasets)
+Data Source: (https://app.mavenanalytics.io/datasets)

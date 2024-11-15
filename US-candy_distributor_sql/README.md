@@ -20,7 +20,7 @@ Data Source: https://app.mavenanalytics.io/datasets
 ### Used tools
 1. **Analysis**: Cleaned, filtered and formatted the data using [SQL](https://github.com/OlgaRaynor/Projects/blob/main/US-candy_distributor_sql/US_candy_distributor_project.sql), integrating key columns from multiple tables
 2. **Routes analysis**: Used Tableau calculated fields to calculate distances between factofies and customers using geographic coordinates
-3. **Visualization**: 1. Performance dashboard 2. Mapped factory and customer locations to identify patterns and opportunities for product lines relocation and logistic routes optimization
+3. **Visualization**: Tableau 1. [Performance dashboard](https://public.tableau.com/app/profile/olga.raynor/viz/CandyDistributorDashboard_17316978313820/Performancedashboard) 2. Mapped factory and customer locations to identify patterns and opportunities for product lines relocation and logistic routes optimization
 
 ### Findings
 - **Company's performance**: total sales goal achieved by 104%, with 27% Gr vs. PY (except one division)

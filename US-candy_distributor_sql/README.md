@@ -8,3 +8,5 @@ Primary objectives:
 - recommend product lines relocation to optimize logistic routes
 
 ## Dataset
+The dataset contains five CSV files:
+1. **Candy_Sales:** sales details from 2021 to 2024, including order date, division, units sold, gross profit, cost, product names, and customer location (state and postal codes)

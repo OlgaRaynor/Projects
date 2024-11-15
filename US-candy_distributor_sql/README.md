@@ -32,4 +32,4 @@ Data Source: https://app.mavenanalytics.io/datasets
 ### Recommendations
 1. Create action plan for the "Sugar" division (which doesnt achieve sales goals)
 2. Develop promotion plan for "Kazookles" product line - to increase the product margin (for example, combined sales with other products)
-3. Relocate product lines into two factories with more strategic locations, decreasing the average shipping distance by 17%, this will also result to a balanced sales share across factories
+3. Relocate product lines into two factories with more strategic locations, decreasing the average shipping distance by 17%, this will also result to a balanced sales share across factories (ready to provide list of product line relocations)

@@ -18,6 +18,6 @@ The dataset contains five CSV files:
 Data Source: https://app.mavenanalytics.io/datasets
 
 ## Used tools
-**Analysis**: Cleaned, filtered and formatted the data using [SQL](https://github.com/OlgaRaynor/Projects/blob/main/US-candy_distributor_sql/US_candy_distributor_project.sql), integrating key columns from multiple tables
-
-**Routes analysis**: Used Tableau calculated fields to calculate distances between factofies and customers using geographic coordinates
+1. **Analysis**: Cleaned, filtered and formatted the data using [SQL](https://github.com/OlgaRaynor/Projects/blob/main/US-candy_distributor_sql/US_candy_distributor_project.sql), integrating key columns from multiple tables
+2. **Routes analysis**: Used Tableau calculated fields to calculate distances between factofies and customers using geographic coordinates
+3. **Visualization**: 1. Performance dashboard 2. Mapped factory and customer locations to identify patterns and opportunities for product lines relocation and logistic routes optimization

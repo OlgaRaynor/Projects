@@ -25,7 +25,7 @@ Data Source: https://app.mavenanalytics.io/datasets
 ### Findings
 - **Company's performance**: total sales goal achieved by 104%, with 27% Gr vs. PY (except one division)
 - **Best product margin**: "Everlasting Gobstopper" - 80% profit margin, produced by Secret Factory and managed by "Sugar" division. Other products have product margin 78-47% , except for "Kazookles", which has a 8% margin
-- **Factories**: two of five factories have share of sales less than 1%. Two factories with total share of sales 92% have the the least efficient shipping routes due to their locations
+- **Factories**: two of five factories have share of sales less than 1%. Two factories with total share of sales 92% have the the least efficient shipping routes due to their locations and sales by state
 - **The most efficient shipping route**: Secret Factory, with an average shipping distance of 862 mi
 - **The least efficient shipping route**: Lot's O' Nuts, with an average shipping distance of 1325 mi
 
